@@ -368,4 +368,10 @@ The goal of this app is pretty simple, to list popular movies with their trailer
 - [SATYA PRAKASH](https://github.com/satya9500)   
 - [AKSHAY SHARMA](https://github.com/AkshaySharma008)  
 - [VIJENDRA CHAUDHARY](https://github.com/vijuc895) 
-- [SURYA](https://github.com/surya91521)                    
+- [SURYA](https://github.com/surya91521)  
+
+# I TOO HAVE CONTRIBUTED :-)
+
+
+
+- [AMAN THAKUR](https://github.com/jhonsnow456)
