@@ -2,3 +2,6 @@ I am planning to create a django project.
 
 It will be a commercial website named as 'mysite'
 hope you will be going to help me in building it. 
+
+Learning Django let me learn about jinja language devloped in japan.
+syntax : {% <operation name> %}
