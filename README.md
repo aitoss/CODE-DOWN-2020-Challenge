@@ -374,4 +374,4 @@ The goal of this app is pretty simple, to list popular movies with their trailer
 
 
 
-- [AMAN THAKUR](https://github.com/jhonsnow456) **
+- [AMAN THAKUR](https://github.com/jhonsnow456) :grinning:
