@@ -375,3 +375,29 @@ The goal of this app is pretty simple, to list popular movies with their trailer
 
 
 - [AMAN THAKUR](https://github.com/jhonsnow456) :grinning:
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+# MY PROJECT 'MYSITE' Description:
+
+
+## Homepage website:
+
+![Home_page](https://github.com/jhonsnow456/CODE-DOWN-2020-Challenge/blob/master/img/home_page.PNG)
+
+## Administration Login Page:
+
+![Adminstration login](https://github.com/jhonsnow456/CODE-DOWN-2020-Challenge/blob/master/img/admin_login%20page.PNG)
+
+## Database page:
+
+![database page](https://github.com/jhonsnow456/CODE-DOWN-2020-Challenge/blob/master/img/database.PNG)
+
+## Create Product page:
+![create product page](https://github.com/jhonsnow456/CODE-DOWN-2020-Challenge/blob/master/img/create_product_page.PNG)
+
+## Products page:
+![products page](https://github.com/jhonsnow456/CODE-DOWN-2020-Challenge/blob/master/img/products.PNG)
+
+## Users page:
+![User page](https://github.com/jhonsnow456/CODE-DOWN-2020-Challenge/blob/master/img/users.PNG)
