@@ -382,6 +382,13 @@ The goal of this app is pretty simple, to list popular movies with their trailer
 
 
 ## Homepage website:
+Home page will consist of the description about the products being sold and the company.
+
+### nav bar will consist of;
+
+- Users login page and administrative login page<br>
+- Abouts<br>
+- contacts<br>
 
 ![Home_page](https://github.com/jhonsnow456/CODE-DOWN-2020-Challenge/blob/master/img/home_page.PNG)
 
