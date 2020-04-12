@@ -417,3 +417,6 @@ Home page will consist of the description about the products being sold and the 
 
 ## Contact page:
 ![Contact page](https://github.com/jhonsnow456/CODE-DOWN-2020-Challenge/blob/master/img/contact.PNG)
+
+## Welcome page:
+![Welcome page](https://github.com/jhonsnow456/CODE-DOWN-2020-Challenge/blob/master/img/welcome.PNG)
