@@ -408,3 +408,12 @@ Home page will consist of the description about the products being sold and the 
 
 ## Users page:
 ![User page](https://github.com/jhonsnow456/CODE-DOWN-2020-Challenge/blob/master/img/users.PNG)
+
+## About page:
+![About page](https://github.com/jhonsnow456/CODE-DOWN-2020-Challenge/blob/master/img/about.PNG)
+
+## Login page:
+![Login page](https://github.com/jhonsnow456/CODE-DOWN-2020-Challenge/blob/master/img/login.PNG)
+
+## Contact page:
+![Contact page](https://github.com/jhonsnow456/CODE-DOWN-2020-Challenge/blob/master/img/contact.PNG)
