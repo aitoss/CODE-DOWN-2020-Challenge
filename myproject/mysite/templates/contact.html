@@ -2,20 +2,35 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style3.css">
     <title>Contact</title>
 </head>
 <body>
-{% extends 'base.html' %}
+    <div class='contact-form'>
+        <h1>Contact</h1>
 
-    {% block content %}
-        <h1>contact Page</h1>
-        <h2>Added templates</h2>
+        <div class="txtb">
+            <label for="">Full  Name :</label>
+            <input type="text" name="" value="" placeholder="Enter your name">
+        </div>
 
-        <p>
-            {{my_phone}}, <br> {{my_email}}
-        </p>
+        <div class="txtb">
+            <label for="">Email :</label>
+            <input type="email" name="" value="" placeholder="Enter your email">
+        </div>
 
-    {% endblock %}
+        <div class="txtb">
+            <label for="">Phone Number :</label>
+            <input type="text" name="" value="" placeholder="Enter your phone Number">
+        </div>
 
+        <div class="txtb">
+            <label for="">Message :</label>
+            <textarea name="" id="" cols="30" rows="10"></textarea>
+        </div>
+
+        <a class="btn" href="">Send</a>
+    </div>
 </body>
 </html>
