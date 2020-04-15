@@ -380,6 +380,16 @@ The goal of this app is pretty simple, to list popular movies with their trailer
 
 # MY PROJECT 'MYSITE' Description:
 
+I have made a commercial website using Django . I have created its front-end and even links its back end.
+local host has not been disturbued so you just have to run the python code.
+
+If anyone like to help me out this help will be appreciated.
+
+## Issue:
+
+- Few Pages may not be linked that should be linked.
+- Enhancement required in UI and Images of product website should be done.
+
 
 ## Homepage website:
 Home page will consist of the description about the products being sold and the company.
